@@ -1,0 +1,52 @@
+{
+    "demo": [
+        {
+            "question": "Q: Bianca was organizing her book case making sure each of the shelves had exactly 8 books on it. If she had 5 shelves of mystery books and 4 shelves of picture books, how many books did she have total?\nA:",
+            "rationale": "Let's think step by step. There are 5 shelves of mystery books. Each shelf has 8 books. So that's 40 mystery books. There are 4 shelves of picture books. Each shelf has 8 books. So that's 32 picture books. 40 + 32 = 72 books.",
+            "pred_ans": "72",
+            "gold_ans": "72"
+        },
+        {
+            "question": "Q: The school cafeteria had 23 apples. If they used 20 to make lunch for the students and then bought 6 more, how many apples would they have?\nA:",
+            "rationale": "Let's think step by step. The school cafeteria had 23 apples. If they used 20 to make lunch for the students and then bought 6 more, How many apples would they have? The school cafeteria would have 23 + 6, or 29, apples.",
+            "pred_ans": "29",
+            "gold_ans": "9"
+        },
+        {
+            "question": "Q: For Halloween Katie and her sister combined the candy they received. Katie had 8 pieces of candy while her sister had 23. If they ate 8 pieces the first night, how many pieces do they have left?\nA:",
+            "rationale": "Let's think step by step. Katie and her sister have a total of 8 + 23 = 31 pieces of candy. If they eat 8 pieces the first night, they have 31 - 8 = 23 pieces left.",
+            "pred_ans": "23",
+            "gold_ans": "23"
+        },
+        {
+            "question": "Q: A group of 4 friends went into a restaurant. The chef already had 9 chicken wings cooked but cooked 7 more for the group. If they each got the same amount how many would each person get?\nA:",
+            "rationale": "Let's think step by step. There are a total of 16 chicken wings. There are 4 people in the group. That means that each person would get 1/4 of the 16 chicken wings, which is 4 chicken wings.",
+            "pred_ans": "4",
+            "gold_ans": "4"
+        },
+        {
+            "question": "Q: Wendy uploaded 45 pictures to Facebook. She put 27 pics into one album and put the rest into 9 different albums. How many pictures were in each album?\nA:",
+            "rationale": "Let's think step by step. First, we know that Wendy uploaded 45 pictures in total. Second, we know that Wendy put 27 pictures into one album. That means that Wendy put the remaining 18 pictures into 9 different albums. That means that each album would have 2 pictures.",
+            "pred_ans": "2",
+            "gold_ans": "2"
+        },
+        {
+            "question": "Q: A trivia team had 7 members total, but during a game 2 members didn't show up. If each member that did show up scored 4 points, how many points were scored total?\nA:",
+            "rationale": "Let's think step by step. There were 7 members on the team, but 2 members didn't show up. That means that there were 5 members that did show up. Each member that showed up scored 4 points. So if 5 members each scored 4 points, then the total number of points scored would be 5*4=20.",
+            "pred_ans": "20",
+            "gold_ans": "20"
+        },
+        {
+            "question": "Q: Mike made 69 dollars mowing lawns over the summer. If he spent 24 dollars buying new mower blades, how many 5 dollar games could he buy with the money he had left?\nA:",
+            "rationale": "Let's think step by step. Mike made $69 from mowing lawns. He spent $24 on new mower blades. That means he has $45 left. Each game costs $5, so he could buy 9 games.",
+            "pred_ans": "9",
+            "gold_ans": "9"
+        },
+        {
+            "question": "Q: April's discount flowers was having a sale where each flower was 6 dollars. If Maria bought 7 roses and 3 daisies, how much did she spend?\nA:",
+            "rationale": "Let's think step by step. We know that each flower is $6. We know that Maria bought 7 roses and 3 daisies. That means that she spent $6 x 7 = $42 on roses, and $6 x 3 = $18 on daisies. To find the total amount she spent, we just need to add those two numbers together: $42 + $18 = $60.",
+            "pred_ans": "60",
+            "gold_ans": "60"
+        }
+    ]
+}
